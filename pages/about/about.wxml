@@ -1,0 +1,8 @@
+<!--pages/about.wxml-->
+<text>xxx</text>
+<template name="about">
+  <view>
+    <text>{{title}}</text>
+    <text>{{content}}</text>
+  </view>
+</template>

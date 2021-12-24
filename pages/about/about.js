@@ -1,11 +1,12 @@
-// pages/home/home.js
+// pages/about.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
+    title:"我是about",
+    content:"我是about的内容"
   },
 
   /**
